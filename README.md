@@ -19,17 +19,17 @@ cd Assignment1
 bun install
 bun run dev
 App will be running at: http://localhost:3000
-
-📝 Assumptions
+```
+## 📝 Assumptions
 Only one valid login is accepted (eve.holt@reqres.in, cityslicka) since Reqres is a mock API.
 
 Manual validation is done to prevent login with the wrong password.
 
 Token is stored in localStorage to manage session state.
 
-🔗 Live Demo
+## 🔗 Live Demo
 👉https://assignment1-two-ashen.vercel.app/
-```
+
 ## 📂 Project Structure
 ```bash
 ASSIGNMENT/
