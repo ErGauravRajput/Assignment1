@@ -11,7 +11,7 @@ A simple React application with login authentication and user list display using
 
 ## 🚀 How to Run
 
-### 1. Clone the Repo
+### Clone the Repo
 
 ```bash
 git clone https://github.com/ErGauravRajput/Assignment1.git
