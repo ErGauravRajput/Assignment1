@@ -31,7 +31,31 @@ Token is stored in localStorage to manage session state.
 👉https://assignment1-two-ashen.vercel.app/
 ```
 ## 📂 Project Structure
-![image](https://github.com/user-attachments/assets/28a46d2c-e618-4b3a-9899-5bf49b6a7960)
+```bash
+ASSIGNMENT/
+├── public/
+├── src/
+│   ├── Api/
+│   │   └── PostApi.jsx
+│   ├── assets/
+│   ├── Components/
+│   │   ├── EditUser.jsx
+│   │   ├── Login.css
+│   │   ├── Login.jsx
+│   │   └── Users.jsx
+│   ├── App.css
+│   ├── App.jsx
+│   ├── index.css
+│   └── main.jsx
+├── .gitignore
+├── eslint.config.js
+├── index.html
+├── package-lock.json
+├── package.json
+├── README.md
+├── vercel.json
+└── vite.config.js
+```
 
 ## 📸 Screenshots
 | Page | Screenshot |
