@@ -29,6 +29,7 @@ Token is stored in localStorage to manage session state.
 
 🔗 Live Demo
 👉https://assignment1-two-ashen.vercel.app/
+```
 ![login page](https://github.com/user-attachments/assets/c1994d28-fa74-4791-b2ab-8fe659c20ac4) |
 
 ![user page 1](https://github.com/user-attachments/assets/6e6d920c-d3df-423a-913d-23f4c84d53d6) |
