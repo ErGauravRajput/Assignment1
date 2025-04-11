@@ -30,9 +30,14 @@ Token is stored in localStorage to manage session state.
 🔗 Live Demo
 👉https://assignment1-two-ashen.vercel.app/
 ```
-![login page](https://github.com/user-attachments/assets/c1994d28-fa74-4791-b2ab-8fe659c20ac4) |
+## 📂 Project Structure
+![image](https://github.com/user-attachments/assets/28a46d2c-e618-4b3a-9899-5bf49b6a7960)
 
-![user page 1](https://github.com/user-attachments/assets/6e6d920c-d3df-423a-913d-23f4c84d53d6) |
+## 📸 Screenshots
+| Page | Screenshot |
+|------|-----------|
+| *Login Page* | ![Login](https://github.com/user-attachments/assets/a32ee430-237a-42f9-8060-f356453f7b6e)|
+| *User List 1* | ![Users](https://github.com/user-attachments/assets/26ba6448-45d3-4d81-b5e7-7150db20db82)|
+| *User List 2* | ![Users](https://github.com/user-attachments/assets/80db5283-40cb-40d9-89e5-e608e1622472)|
 
-![user page 2](https://github.com/user-attachments/assets/b35161f9-2114-4bfc-a230-1afb73ac9dc0) |
 
